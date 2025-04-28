@@ -35,7 +35,7 @@ Console based calculator build with C# (.NET). Supports about 10 operators, with
 ## Usage
 1. from the project root directory, enter `dotnet run`
 2. enter expressions or commands
-`
+```
 -> help
 -> 2 * 3
 r = 6
@@ -47,7 +47,7 @@ r = -50
 -> x = 5
 -> y = $y
 y = -55
-`
+```
 
 ## Installation
 ### Dependencies
